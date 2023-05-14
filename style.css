@@ -1,0 +1,42 @@
+body {
+  background-color: #97BC62;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(167, 47, 47, 0.3);
+}
+
+h1,
+h2 {
+  text-align: left;
+  color: #2C5F2D;
+}
+
+/*creating borders for 4*4 flavanoids and gamma tables */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #5f6a5f;
+}
+
+th {
+  background-color: #2C5F2D;
+  color: #fff;
+}
