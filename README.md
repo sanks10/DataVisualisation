@@ -16,5 +16,5 @@ will open a tab with the link "http://localhost:3000", this is
 what the end result would look like.
 
 
-![Screenshot 2023-05-15 031048](https://github.com/sanks10/DataVisualisation/blob/main/Screenshot%202023-05-15%20031048.png)
+![Screenshot 2023-05-15 031048](https://github.com/sanks10/DataVisualisation/blob/main/Screenshot%202023-05-15%20123622.png)
 
